@@ -1,0 +1,10 @@
+1. **Filtros de busca detalhados:** Permite filtrar produtos por diversos critérios (preço, marca, especificações).
+2. **Fotos de alta resolução:** Melhora a visualização dos produtos, aumentando o apelo visual.
+3. **Avaliações e comentários com fotos:** Gera confiança e impulsiona vendas com feedback visual dos clientes.
+4. **Sistema de Cache agressivo:** Garante carregamento rápido das páginas, melhorando a experiência do usuário.
+5. **Múltiplos Gateways de Pagamento:** Oferece mais opções de pagamento (cartão, PIX, PayPal).
+6. **Sistema de Recomendação de Produtos:** Sugere produtos relevantes com base no histórico do usuário.
+7. **Chat ao vivo:** Permite comunicação instantânea com o suporte ao cliente.
+8. **Comparação de produtos lado a lado:** Facilita a comparação de diferentes produtos com suas especificações.
+9. **Animações de carregamento criativo:** Torna o tempo de carregamento mais agradável visualmente.
+10. **Autenticação de dois fatores:** Aumenta a segurança da conta do usuário.

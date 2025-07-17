@@ -1,0 +1,12 @@
+Sistema: "Plataforma de E-commerce 'VendeTudo'"
+Autor do Documento: "Equipe de Análise de Sistemas"
+Objetivo: "Criar uma plataforma online para venda de produtos eletrônicos, com foco em uma experiência de usuário fluida e segura."
+Escopo: "O sistema cobrirá o cadastro de produtos, carrinho de compras, checkout com pagamento via cartão de crédito e PIX, e um painel de administração para gestão de pedidos. A fase 1 não incluirá programa de fidelidade."
+Requisitos Funcionais:
+- RF001: O usuário deve poder se cadastrar usando email e senha. Prioridade: Alta.
+- RF002: O sistema deve permitir a busca de produtos por nome ou categoria. Prioridade: Alta.
+- RF003: O administrador deve poder adicionar, editar ou remover produtos do catálogo. Prioridade: Média.
+Requisitos Não Funcionais:
+- RNF001: Todas as páginas devem carregar em menos de 3 segundos.
+- RNF002: A autenticação do usuário deve usar criptografia SHA-256.
+- RNF003: O sistema deve ser compatível com os navegadores Chrome, Firefox e Safari.
